@@ -27,14 +27,6 @@ To install exopy using this installer follow these steps:
         source exopy_env\bin\activate
         ```
 
-1. Clone the installer repo
-
-    In the sane directory, clone this repository:
-    ```bash
-        git clone "https://github.com/marcoparadina/exopy_installer.git"
-    ```
-
-
 1. Run the installer
 
     In the terminal move into the installer repository, and then run the exopy installer.
@@ -54,6 +46,33 @@ To install exopy using this installer follow these steps:
     ```
 
     The first time you launch exopy, a banner will ask you where you want to save the application settings file. Do not close this banner without choosing a diretory, you might break everything and  have to restart the install from the beginning.
+
+----------------------------------GOOD VERSION--------------------------------------
+
+1. Clone the installer repo
+
+    In the directory where you want to install exopy, run this command in the terminal:
+
+    ```bash
+        git clone "https://github.com/marcoparadina/exopy_installer.git"
+    ```
+
+1. Install exopy
+
+    ```bash
+    cd exopy_installer
+    python install_exopy.py
+
+1. Launch exopy
+    
+    Run this command in the terminal to launch exopy
+
+    ```bash
+    exopy
+    ```
+
+    The first time you launch exopy, a banner will ask you where you want to save the application settings file. Do not close this banner without choosing a diretory, you might break everything and  have to restart the install from the beginning.
+-----------------------------------------------------------------
 
 ## Using exopy
 
