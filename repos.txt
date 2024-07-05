@@ -1,0 +1,5 @@
+https://github.com/Exopy/exopy.git
+https://github.com/Exopy/exopy_hqc_legacy.git
+https://github.com/Qcircuits/ecpy_qcircuits.git
+https://github.com/Exopy/exopy_pulses.git
+https://github.com/Exopy/exopy_qm.git

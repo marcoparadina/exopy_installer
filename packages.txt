@@ -1,0 +1,5 @@
+exopy
+exopy_hqc_legacy
+exopy_pulses
+ecpy_qcircuits
+exopy_qm
