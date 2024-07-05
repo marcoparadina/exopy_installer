@@ -2,7 +2,7 @@ import os
 import subprocess
 
 # Read the repository URLs from the file
-with open('C:/Users/Physique/exopy install/repos.txt', 'r') as file:
+with open('repos.txt', 'r') as file:
     repos = file.readlines()
 
 # Clone each repository
