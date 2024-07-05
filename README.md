@@ -54,7 +54,7 @@ To install exopy using this installer follow these steps:
     In the directory where you want to install exopy, run this command in the terminal:
 
     ```bash
-        git clone "https://github.com/marcoparadina/exopy_installer.git"
+    git clone "https://github.com/marcoparadina/exopy_installer.git"
     ```
 
 1. Install exopy
