@@ -33,7 +33,6 @@ def activate_virtual_environment(env_name="exopy_env"):
 def run_installer(env, installer_dir="exopy_installer"):
     """Runs the exopy installer."""
     print("Running the exopy installer...")
-    os.chdir(installer_dir)
     run_command("python exopy_installer.py", env)
 
 def main():
