@@ -31,7 +31,7 @@ To install exopy using this installer follow these steps:
 
     In the sane directory, clone this repository:
     ```bash
-        git clone URL
+        git clone "https://github.com/marcoparadina/exopy_installer.git"
     ```
 
 
